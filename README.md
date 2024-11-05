@@ -2,3 +2,7 @@
 ### Changing in local.
 ### Just merging with self vim changing tools. :)tools
 ### Change in remote side.
+### This is a test string to check what will shown up at git diff after `git
+add .`the stage(index).I was struggling in commit and `git diff
+--cached`\doesn't show anything but after doing `git reset --soft HEAD^` I'm \
+uncommit the changes and its working fine.
