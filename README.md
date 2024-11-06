@@ -15,3 +15,11 @@
 
 This is a change that simeltounesly on experimental branch and commit in both
 of them and face to the diverge.
+
+I'm add this line just to experimental branch and after that I will switch to
+the Main branch and I expect that this line should't appear at the Main branch.
+
+Create some diference in experimental branch then switch to master branch and 
+make changes in master branch then try to commit the master branch so as the 
+gittutorial manual page says I will recieve a diverged and error so go until
+here.
