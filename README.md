@@ -26,3 +26,5 @@ here.
 ## Test for 2 commit then push
   1_commit.
   2_commit.
+
+  test for unmassaged commit
