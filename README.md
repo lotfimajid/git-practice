@@ -34,4 +34,4 @@ here.
   A little Change to see what's happening in `git diff` and `git diff HEAD`
   and also use the ```git ls-files --stage```
 
-  A change that i want to rebase it
+A change that i want to rebase it
