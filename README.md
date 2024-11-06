@@ -23,3 +23,5 @@ Create some diference in experimental branch then switch to master branch and
 make changes in master branch then try to commit the master branch so as the 
 gittutorial manual page says I will recieve a diverged and error so go until
 here.
+## Test for 2 commit then push
+  1_commit.
