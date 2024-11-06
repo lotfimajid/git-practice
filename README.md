@@ -25,3 +25,4 @@ gittutorial manual page says I will recieve a diverged and error so go until
 here.
 ## Test for 2 commit then push
   1_commit.
+  2_commit.
