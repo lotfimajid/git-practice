@@ -30,3 +30,6 @@ here.
   test for unmassaged commit
 
   Add a v0.1.1 tag to this commit to show the git log v0.1.0..v0.1.1 changes.
+
+  A little Change to see what's happening in `git diff` and `git diff HEAD`
+  and also use the ```git ls-files --stage```
