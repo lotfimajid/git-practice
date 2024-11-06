@@ -12,3 +12,6 @@
 ### `git add .` the stage(index). I was struggling in commit and `git diff
 ### --cached` doesn't show anything but after doing `git reset --soft HEAD^` I
 ### am uncommit the changes and it's working fine.
+
+This is a change that simeltounesly on experimental branch and commit in both
+of them and face to the diverge.
