@@ -12,3 +12,6 @@
 ### `git add .` the stage(index). I was struggling in commit and `git diff
 ### --cached` doesn't show anything but after doing `git reset --soft HEAD^` I
 ### am uncommit the changes and it's working fine.
+
+I'm add this line just to experimental branch and after that I will switch to
+the Main branch and I expect that this line should't appear at the Main branch.
