@@ -35,7 +35,7 @@ here.
   and also use the ```git ls-files --stage```
 
   A change that i want to rebase it
-  salam
+khodahafez
   khobi
   chetori
   again changed with --amend 
