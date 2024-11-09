@@ -39,3 +39,4 @@ here.
   khobi
   chetori
   again changed with --amend 
+test --amend on remote
