@@ -37,3 +37,5 @@ here.
   A change that i want to rebase it
   salam
   khobi
+  chetori
+  again changed with --amend 
