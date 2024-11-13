@@ -40,3 +40,5 @@ khodahafez
   chetori
   again changed with --amend 
 test --amend on remote
+
+git fetch test
